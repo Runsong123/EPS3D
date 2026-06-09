@@ -119,7 +119,15 @@ bash run_eps3d_scannet_2view.sh context
 ## Citation
 
 ```
-TBD
+@misc{zhu2026eps3dendtoendfeedforward3d,
+      title={EPS3D: End-to-End Feed-Forward 3D Panoptic Segmentation}, 
+      author={Runsong Zhu and Jiaxin Guo and Xiaoyang Guo and Zhengzhe Liu and Ka-Hei Hui and Wei Yin and Kai Chen and Wei Chen and Weiqiang Ren and Yunhui Liu and Pheng-Ann Heng and Chi-Wing Fu},
+      year={2026},
+      eprint={2606.08980},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.08980}, 
+}
 ```
 
 ## Acknowledgement
